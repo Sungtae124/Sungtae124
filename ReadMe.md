@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=Sungtae%20Kim&fontSize=50) 
 
-I am Sungtae Kim, a second year of [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.seoultech.ac.kr/).
+I am _**Sungtae Kim**_, a second year of [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SEOULTECH](https://en.seoultech.ac.kr/).
 
-:email: e-mail : tsk0204@naver.com
+:email: **e-mail** : tsk0204@naver.com
 
 My interests are
 * :video_game: **Game Making**: Using Unity (also like playing games!)
