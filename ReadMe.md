@@ -8,11 +8,11 @@ My interests are
 * :video_game: **Game Making**: Using Unity (also like playing games!)
 * :desktop_computer: **Computer Components**: Assemble & Disassemble parts and PC peripherals 
     ex :computer:, :keyboard:, :computer_mouse: 
-* :microphone: **Music**: Singing a song, compose my own songs with :musical_keyboard: & :guitar:
+* :microphone: **Music**: Singing a song, Composing my own songs with :musical_keyboard: & :guitar:
 
 
     :books: Studying :books:
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 
 
     :hammer_and_wrench: I'm Using
